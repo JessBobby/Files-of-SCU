@@ -13,9 +13,9 @@
 [微积分1-2](https://scuguyi.lanzout.com/b03jbe2id?password=JessBobby)  
 [概率统计](https://scuguyi.lanzout.com/b03jbe4sf?password=JessBobby)  
 [期末资料](https://scuguyi.lanzout.com/b03jbe3cd?password=JessBobby)  
-  该【期末资料】包括  
-    * 经济法  公司法  合同法  
-    * 会计学  微观经济学  中特  
-    * 新中国史  近纲  
-    * 微积分  线代  
+* 该【期末资料】包括  
+  * 经济法  公司法  合同法  
+  * 会计学  微观经济学  中特  
+  * 新中国史  近纲  
+  * 微积分  线代  
     
