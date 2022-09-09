@@ -1,5 +1,6 @@
 # 纯主观，自行判断。如果有用，望打一个star
 # 收集了各种资源，包括但不限于教材，复习提纲，试卷，软件，选课名单，电子书
+# A variety of resources are collected, including but not limited to textbooks, review syllabuses, exam papers, software, course selection lists, eBooks
 ## 蓝奏云备份 通用密码 JessBobby  
 ![](https://github.com/JessBobby/files-of-SCU/blob/main/111.jpg)  
 ### 开学礼包
