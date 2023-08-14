@@ -1,6 +1,5 @@
 # 纯主观，自行判断。如果有用，望打一个star
-# 收集了各种资源，包括但不限于教材，复习提纲，试卷，软件，选课名单，电子书
-# A variety of resources are collected, including but not limited to textbooks, review syllabuses, exam papers, software, course selection lists, eBooks
+# 收集了各种资源，包括但不限于教材，复习提纲，试卷，软件，选课名单，电子书等。专业培养属经济学院
 ## 蓝奏云备份 通用密码 JessBobby  
 ![](https://github.com/JessBobby/files-of-SCU/blob/main/111.jpg)  
 ### 开学礼包
@@ -25,7 +24,11 @@
 * 公司金融 国际金融
 ##### [电子教材](https://scuguyi.lanzout.com/b03jbe5eh?password=JessBobby) 该【电子教材(部分含习题册)】包括  
 * 大学英语读写教程-3  
-* 自由选择  
+* 自由选择 门口的野蛮人 转型中的地方政府 国富论上下册
 * 经济法学  
 * 概率统计  
-* 宏观经济学及习题册  
+* 宏观经济学及习题册
+* 公司金融全英文教材 国际金融
+* 经济学原理第六版 英文原版
+* 行为金融学 曼昆宏观笔记和习题详解
+* 资产定价的原理与模型
