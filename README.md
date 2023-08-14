@@ -16,9 +16,13 @@
 [概率统计](https://scuguyi.lanzout.com/b03jbe4sf?password=JessBobby)  
 ##### [期末资料](https://scuguyi.lanzout.com/b03jbe3cd?password=JessBobby)  该【期末资料】包括  
 * 经济法  公司法  合同法  
-* 会计学  微观经济学  中特  
+* 会计学  微观经济学  中特  财政学
 * 新中国史  近纲  
-* 微积分  线代  
+* 微积分  线代
+* 运筹学
+* 习概 毛概 马原
+* 金融学 计量经济学 宏观经济学 金融经济学
+* 公司金融 国际金融
 ##### [电子教材](https://scuguyi.lanzout.com/b03jbe5eh?password=JessBobby) 该【电子教材(部分含习题册)】包括  
 * 大学英语读写教程-3  
 * 自由选择  
