@@ -13,7 +13,7 @@
 [线性代数(理工)](https://scuguyi.lanzout.com/b03jbe2kf?password=JessBobby)  
 [微积分1-2](https://scuguyi.lanzout.com/b03jbe2id?password=JessBobby)  
 [概率统计](https://scuguyi.lanzout.com/b03jbe4sf?password=JessBobby)  
-##### [期末资料](https://scuguyi.lanzout.com/b03jbe3cd?password=JessBobby)  该【期末资料】包括  
+##### [期末资料](https://scuguyi.lanzout.com/b03jbe3cd?password=JessBobby)  该【期末资料】包括  更新2024-1-12 课程资料也包括再此
 * 经济法  公司法  合同法  
 * 会计学  微观经济学  中特  财政学
 * 新中国史  近纲  
@@ -22,7 +22,9 @@
 * 习概 毛概 马原
 * 金融学 计量经济学 宏观经济学 金融经济学
 * 公司金融 国际金融
-##### [电子教材](https://scuguyi.lanzout.com/b03jbe5eh?password=JessBobby) 该【电子教材(部分含习题册)】包括  
+* 保险学 金融工程文献导读 投资银行理论与实务
+* 金融工程学 固定收益证券
+##### [电子教材](https://scuguyi.lanzout.com/b03jbe5eh?password=JessBobby) 该【电子教材(部分含习题册)】包括  更新2024-1-12
 * 大学英语读写教程-3  
 * 自由选择 门口的野蛮人 转型中的地方政府 国富论上下册
 * 经济法学  
@@ -32,3 +34,8 @@
 * 经济学原理第六版 英文原版
 * 行为金融学 曼昆宏观笔记和习题详解
 * 资产定价的原理与模型
+* 风险管理与金融机构
+* 固定收益证券第四版
+* 金融市场学 投资银行学理论与案例
+* 金融随即分析第一卷 第二卷
+* 投资学 资产定价理论
