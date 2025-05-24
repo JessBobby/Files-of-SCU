@@ -8,12 +8,15 @@
 [相关软件推荐](https://scuguyi.lanzout.com/b03jbdhnc?password=JessBobby)  
 [川大风各类型PPT模板](https://scuguyi.lanzout.com/b03jbdx7c?password=JessBobby)  
 [体育理论考试总题库](https://scuguyi.lanzout.com/iR7vJ0b88dta)  
-### 不同课程的相关资料  
+### 不同课程的相关资料（（半废弃）大部分在期末资料中）  
 [中国特色社会主义政治经济学](https://scuguyi.lanzout.com/b03jbe2ni?password=JessBobby)  
 [线性代数(理工)](https://scuguyi.lanzout.com/b03jbe2kf?password=JessBobby)  
 [微积分1-2](https://scuguyi.lanzout.com/b03jbe2id?password=JessBobby)  
 [概率统计](https://scuguyi.lanzout.com/b03jbe4sf?password=JessBobby)  
-##### [期末资料](https://scuguyi.lanzout.com/b03jbe3cd?password=JessBobby)  该【期末资料】包括  更新2024-1-12 课程资料也包括再此
+##### [期末资料](https://scuguyi.lanzout.com/b03jbe3cd?password=JessBobby)  该【期末资料】包括  更新2025-5-24 课程资料也包括再此
+* 计算机二级  辅助参考
+* 金融计量学  金融工程实验  金融风险管理  财务报表分析
+* 证券投资学  金融资产定价  金融市场学  金融随机过程
 * 经济法  公司法  合同法  
 * 会计学  微观经济学  中特  财政学
 * 新中国史  近纲  
